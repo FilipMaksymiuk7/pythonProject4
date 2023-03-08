@@ -48,6 +48,7 @@ print(lista)
 lista.sort()
 print(lista)
 
+
 #tupla = (1,2,3,4,5)
 #dict = {1:'tak',0:'nie','2':moze}
 
